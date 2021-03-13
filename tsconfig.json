@@ -48,10 +48,10 @@
       }
     ]
   },
-  "include": ["pwabuilder-sw.ts"],
+  "include": ["web3mq-sw.ts"],
   "exclude": [
     "node_modules",
     "**/*.spec.ts",
-    "build/pwabuilder-sw.js"
+    "build/web3mq-sw.js"
   ]
 }
